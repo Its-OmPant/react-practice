@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  gap: 14px;
+  font-family: 'Courier New', Courier, monospace;
+}
